@@ -85,3 +85,6 @@ Controleer dat deze aanwezig zijn:
 
 **Voltooiing:** Zodra deze checklist volledig is gecontroleerd, kan de gebruiker verder met de **handleiding voor configuratie**.  
 
+---
+
+# 📘 Configuratie Handleiding – CLB, Kadex, WebDAV & Linphone
