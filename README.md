@@ -14,7 +14,9 @@ Controleer of de volgende apps geïnstalleerd zijn:
 - [ ] DAVx5  
 - [ ] Linphone CLB  
 - [ ] SureMDM Agent  
-- [ ] Kadex Notifier  ![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/afb90c9bf880b0bd279d1008014f564e0d86439e/5.png)
+- [ ] Kadex Notifier
+
+![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/afb90c9bf880b0bd279d1008014f564e0d86439e/5.png)
 
 
 
