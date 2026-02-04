@@ -16,10 +16,6 @@ Controleer of de volgende apps geïnstalleerd zijn:
 - [ ] SureMDM Agent  
 - [ ] Kadex Notifier
 
-![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/afb90c9bf880b0bd279d1008014f564e0d86439e/5.png)
-
-
-
 ➡ **Geen enkele app mag ontbreken**
 
 ---
@@ -36,7 +32,7 @@ Controleer of de volgende apps geïnstalleerd zijn:
 - [ ] Pop-ups → **Toegestaan**  
 - [ ] Vergrendelscherm → **Zichtbaar**  
 
-📸 *Hier kun je straks een screenshot toevoegen van goed/fout*
+![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/d8766417f5554f7440a5fae8d44d4da40bd2933d/21.png)
 
 ---
 
@@ -51,7 +47,7 @@ Controleer of de volgende apps geïnstalleerd zijn:
 - [ ] Bestanden/Media → **Toegestaan**  
 - [ ] Meldingen → **Toegestaan**  
 
-📸 *Hier kun je straks een screenshot toevoegen van goed/fout*
+![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/3f78bc6139673b6022a92dc73df3579d17f0d20e/20.png)
 
 ---
 
@@ -61,7 +57,7 @@ Controleer of de volgende apps geïnstalleerd zijn:
 
 - [ ] Batterijgebruik → **Onbeperkt**  
 
-📸 *Hier kun je straks een screenshot toevoegen van goed/fout*
+![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/d8766417f5554f7440a5fae8d44d4da40bd2933d/19.png)
 
 ---
 
@@ -87,10 +83,5 @@ Controleer dat deze aanwezig zijn:
 
 ---
 
-**Voltooiing:** Zodra deze checklist volledig is gecontroleerd, kan de gebruiker verder met de **handleiding voor CLB & Kadex configuratie**.  
+**Voltooiing:** Zodra deze checklist volledig is gecontroleerd, kan de gebruiker verder met de **handleiding voor configuratie**.  
 
-📌 **Opmerking:** Screenshots van “goed” en “fout” kunnen hier toegevoegd worden door:
-
-```markdown
-![CLB Meldingen Goed](images/goed/clb-meldingen-goed.png)
-![CLB Meldingen Fout](images/fout/clb-meldingen-fout.png)
