@@ -119,7 +119,7 @@ Gebruik **altijd exact deze instellingen**:
 5. Vul bij **Mobile serveradres** opnieuw in:
 6. Tik op **Bevestigen**.
 
-(https://github.com/yus347/Checklist-Documentatie/blob/d269624511cfeb6bd3f387da0528d7ba37dbc0f4/1.png)
+![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/d269624511cfeb6bd3f387da0528d7ba37dbc0f4/1.png)
 
 
 ---
