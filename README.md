@@ -141,3 +141,163 @@ Gebruik **altijd exact deze instellingen**:
 
 1. Open **Kadex Notifier**.
 2. Vul het **serveradres** in:
+3. Pas de **naam** aan indien nodig.
+4. Sla de instellingen op.
+
+📸 *Voeg hier een screenshot toe van correcte Kadex instellingen*
+
+---
+
+## 9. Zijknoppen Instellen (Samsung XCover 7)
+
+1. Ga naar **Instellingen**.
+2. Open **Geavanceerde functies**.
+3. Ga naar **Zijknop**.
+
+### Instellingen:
+- **Twee keer drukken → CLB Messenger**
+- **Lang indrukken → Menu uitschakelen**
+
+4. Ga één stap terug.
+5. Ga naar **Knop XCover**.
+6. **Koppel deze aan CLB Messenger**.
+
+📸 *Voeg hier screenshots toe van juiste knopinstellingen*
+
+---
+
+## 10. Gemini Uitschakelen
+
+1. Ga naar **Instellingen**.
+2. Zoek naar **Gemini**.
+3. Zet **Gemini UIT**.
+
+📸 *Voeg hier een screenshot toe*
+
+---
+
+## 11. WebDAV Configureren (DAVx5)
+
+1. Open **DAVx5**.
+2. Voeg een **nieuwe WebDAV-account** toe.
+3. Vul in:
+
+3. Pas de **naam** aan indien nodig.
+4. Sla de instellingen op.
+
+📸 *Voeg hier een screenshot toe van correcte Kadex instellingen*
+
+---
+
+## 9. Zijknoppen Instellen (Samsung XCover 7)
+
+1. Ga naar **Instellingen**.
+2. Open **Geavanceerde functies**.
+3. Ga naar **Zijknop**.
+
+### Instellingen:
+- **Twee keer drukken → CLB Messenger**
+- **Lang indrukken → Menu uitschakelen**
+
+4. Ga één stap terug.
+5. Ga naar **Knop XCover**.
+6. **Koppel deze aan CLB Messenger**.
+
+📸 *Voeg hier screenshots toe van juiste knopinstellingen*
+
+---
+
+## 10. Gemini Uitschakelen
+
+1. Ga naar **Instellingen**.
+2. Zoek naar **Gemini**.
+3. Zet **Gemini UIT**.
+
+📸 *Voeg hier een screenshot toe*
+
+---
+
+## 11. WebDAV Configureren (DAVx5)
+
+1. Open **DAVx5**.
+2. Voeg een **nieuwe WebDAV-account** toe.
+3. Pas de **naam** aan indien nodig.
+4. Sla de instellingen op.
+
+📸 *Voeg hier een screenshot toe van correcte Kadex instellingen*
+
+---
+
+## 9. Zijknoppen Instellen (Samsung XCover 7)
+
+1. Ga naar **Instellingen**.
+2. Open **Geavanceerde functies**.
+3. Ga naar **Zijknop**.
+
+### Instellingen:
+- **Twee keer drukken → CLB Messenger**
+- **Lang indrukken → Menu uitschakelen**
+
+4. Ga één stap terug.
+5. Ga naar **Knop XCover**.
+6. **Koppel deze aan CLB Messenger**.
+
+📸 *Voeg hier screenshots toe van juiste knopinstellingen*
+
+---
+
+## 10. Gemini Uitschakelen
+
+1. Ga naar **Instellingen**.
+2. Zoek naar **Gemini**.
+3. Zet **Gemini UIT**.
+
+📸 *Voeg hier een screenshot toe*
+
+---
+
+## 11. WebDAV Configureren (DAVx5)
+
+1. Open **DAVx5**.
+2. Voeg een **nieuwe WebDAV-account** toe.
+3. Vul in:
+4. 4. Sla op.
+5. Controleer of **synchronisatie werkt**.
+
+📸 *Voeg hier een screenshot toe van geslaagde WebDAV verbinding*
+
+---
+
+## 12. 4G & Linphone Correct Instellen
+
+1. Zet **4G UIT**.
+2. Open **Linphone CLB**.
+3. Configureer Linphone met:
+4. Sluit de Linphone-app **volledig af**.
+5. Zet **4G weer AAN**.
+
+📸 *Voeg hier screenshots toe van correcte Linphone instellingen*
+
+---
+
+## 13. Verplichte Systeemapps Controleren
+
+Controleer of deze aanwezig zijn:
+
+- com.samsung.android.app.contacts  
+- com.iqm.enterprise.smartapp  
+- IQ SmartApp Enterprise  
+
+---
+
+## 14. Eindcontrole – Toestel Gereed
+
+- [ ] CLB werkt correct  
+- [ ] Kadex meldingen komen binnen  
+- [ ] Linphone kan bellen  
+- [ ] WebDAV synchroniseert  
+- [ ] Zijknoppen starten CLB  
+
+✅ **Toestel is nu volledig klaar voor gebruik binnen Amsta Zorg.**
+
+
