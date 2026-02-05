@@ -88,3 +88,55 @@ Controleer dat deze aanwezig zijn:
 ---
 
 # 📘 Configuratie Handleiding – CLB, Kadex, WebDAV & Linphone
+
+## 5. Servergegevens
+
+Gebruik **altijd exact deze instellingen**:
+
+### CLB
+- **Server:** `amsta.hosting.clb.nl`
+
+### Kadex
+- **Server:** `10.99.0.3`
+
+### WebDAV
+- **Server:** `http://10.10.14.176/`
+- **Gebruikersnaam:** `Schutse`
+- **Wachtwoord:** `ZgKdx-j7Sd5-635DP-AEiyx-iD8cn`
+
+### Linphone
+- **Server:** `10.10.20.12`
+- **Transport:** `UDP`
+
+---
+
+## 6. CLB App Afronden
+
+1. Open **CLB Messenger**.
+2. Voer bij de **naam van de gebruiker en code** niks in klik boven in rechts 3 keer.
+3. Vul bij **WiFi serveradres** in:
+4. Zet het vinkje **“WiFi only” UIT**.
+5. Vul bij **Mobile serveradres** opnieuw in:
+6. Tik op **Bevestigen**.
+
+📸 *Voeg hier een screenshot toe van correcte CLB instellingen*
+
+---
+
+## 7. Niet Storen (DND) Instellen voor CLB
+
+1. Ga naar **Instellingen**.
+2. Open **Apps**.
+3. Tik rechtsboven op **⋮ (3 puntjes)**.
+4. Kies **Speciale app-machtigingen**.
+5. Ga naar **Niet storen (DND)**.
+6. Zoek **CLB Messenger** en zet deze op **Toegestaan**.
+
+📸 *Voeg hier een screenshot toe van correcte DND instellingen*
+
+---
+
+## 8. Kadex Configureren
+
+1. Open **Kadex Notifier**.
+2. Vul het **serveradres** in:
