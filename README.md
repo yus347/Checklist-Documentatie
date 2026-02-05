@@ -32,7 +32,7 @@ Controleer of de volgende apps geïnstalleerd zijn:
 - [ ] Pop-ups → **Toegestaan**  
 - [ ] Vergrendelscherm → **Zichtbaar**  
 
-![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/d8766417f5554f7440a5fae8d44d4da40bd2933d/21.png)
+![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/1495772b93ef6ce464f6955ab0e046f4eb1992e0/21.png)
 
 ---
 
@@ -47,7 +47,7 @@ Controleer of de volgende apps geïnstalleerd zijn:
 - [ ] Bestanden/Media → **Toegestaan**  
 - [ ] Meldingen → **Toegestaan**  
 
-![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/3f78bc6139673b6022a92dc73df3579d17f0d20e/20.png)
+![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/1495772b93ef6ce464f6955ab0e046f4eb1992e0/20.png)
 
 ---
 
@@ -57,7 +57,7 @@ Controleer of de volgende apps geïnstalleerd zijn:
 
 - [ ] Batterijgebruik → **Onbeperkt**  
 
-![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/d8766417f5554f7440a5fae8d44d4da40bd2933d/19.png)
+![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/1495772b93ef6ce464f6955ab0e046f4eb1992e0/19.png)
 
 ---
 
@@ -119,7 +119,8 @@ Gebruik **altijd exact deze instellingen**:
 5. Vul bij **Mobile serveradres** opnieuw in:
 6. Tik op **Bevestigen**.
 
-![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/d269624511cfeb6bd3f387da0528d7ba37dbc0f4/1.png)
+![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/1495772b93ef6ce464f6955ab0e046f4eb1992e0/1.png)
+![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/1495772b93ef6ce464f6955ab0e046f4eb1992e0/4.png)
 
 
 ---
@@ -133,7 +134,7 @@ Gebruik **altijd exact deze instellingen**:
 5. Ga naar **Niet storen (DND)**.
 6. Zoek **CLB Messenger** en zet deze op **Toegestaan**.
 
-📸 *Voeg hier een screenshot toe van correcte DND instellingen*
+![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/1495772b93ef6ce464f6955ab0e046f4eb1992e0/4.png)
 
 ---
 
@@ -143,8 +144,6 @@ Gebruik **altijd exact deze instellingen**:
 2. Vul het **serveradres** in:
 3. Pas de **naam** aan indien nodig.
 4. Sla de instellingen op.
-
-📸 *Voeg hier een screenshot toe van correcte Kadex instellingen*
 
 ---
 
@@ -162,7 +161,13 @@ Gebruik **altijd exact deze instellingen**:
 5. Ga naar **Knop XCover**.
 6. **Koppel deze aan CLB Messenger**.
 
-📸 *Voeg hier screenshots toe van juiste knopinstellingen*
+![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/1495772b93ef6ce464f6955ab0e046f4eb1992e0/7.png)
+![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/1495772b93ef6ce464f6955ab0e046f4eb1992e0/8.png)
+![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/1495772b93ef6ce464f6955ab0e046f4eb1992e0/9.png)
+![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/1495772b93ef6ce464f6955ab0e046f4eb1992e0/10.png)
+![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/1495772b93ef6ce464f6955ab0e046f4eb1992e0/11.png)
+
+
 
 ---
 
