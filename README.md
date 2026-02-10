@@ -210,16 +210,6 @@ Gebruik **altijd exact deze instellingen**:
 
 ---
 
-## 13. Verplichte Systeemapps Controleren
-
-Controleer of deze aanwezig zijn:
-
-- com.samsung.android.app.contacts  
-- com.iqm.enterprise.smartapp  
-- IQ SmartApp Enterprise  
-
----
-
 ## 14. Eindcontrole – Toestel Gereed
 
 - [ ] CLB werkt correct  
