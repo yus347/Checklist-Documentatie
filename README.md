@@ -73,17 +73,6 @@ Controleer of de volgende apps geïnstalleerd zijn:
 
 ---
 
-## 4. Niet Storen (DND) Instellen voor CLB
-
-1. Ga naar **Instellingen**.
-2. Open **Apps**.
-3. Tik rechtsboven op **⋮ (3 puntjes)**.
-4. Kies **Speciale app-machtigingen**.
-5. Ga naar **Niet storen (DND)**.
-6. Zoek **CLB Messenger** en zet deze op **Toegestaan**.
-
-![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/9836067b3c8d9fa5fb7e3b00ecfc9b3a2556b92d/6.png)
-
 **Voltooiing:** Zodra deze checklist volledig is gecontroleerd, kan de gebruiker verder met de **handleiding voor configuratie**.  
 
 ---
