@@ -73,6 +73,17 @@ Controleer of de volgende apps geïnstalleerd zijn:
 
 ---
 
+## 4. Niet Storen (DND) Instellen voor CLB
+
+1. Ga naar **Instellingen**.
+2. Open **Apps**.
+3. Tik rechtsboven op **⋮ (3 puntjes)**.
+4. Kies **Speciale app-machtigingen**.
+5. Ga naar **Niet storen (DND)**.
+6. Zoek **CLB Messenger** en zet deze op **Toegestaan**.
+
+![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/9836067b3c8d9fa5fb7e3b00ecfc9b3a2556b92d/6.png)
+
 **Voltooiing:** Zodra deze checklist volledig is gecontroleerd, kan de gebruiker verder met de **handleiding voor configuratie**.  
 
 ---
@@ -158,7 +169,7 @@ Gebruik **altijd exact deze instellingen**:
 ![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/1495772b93ef6ce464f6955ab0e046f4eb1992e0/11.png)
 
 
-
+ b
 ---
 
 ## 10. Gemini Uitschakelen
@@ -190,11 +201,10 @@ Gebruik **altijd exact deze instellingen**:
 
 ## 12. 4G & Linphone Correct Instellen
 
-1. Zet **4G UIT**.
-2. Open **Linphone CLB**.
-3. Configureer Linphone met:
-4. Sluit de Linphone-app **volledig af**.
-5. Zet **4G weer AAN**.
+1. Open **Linphone CLB**.
+2. Configureer Linphone met:
+3. Sluit de Linphone-app **volledig af**.
+4. Zet **4G weer AAN**.
 
 ![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/9836067b3c8d9fa5fb7e3b00ecfc9b3a2556b92d/18.png)
 
