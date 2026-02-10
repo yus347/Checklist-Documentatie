@@ -73,16 +73,6 @@ Controleer of de volgende apps geïnstalleerd zijn:
 
 ---
 
-## 4. Vereiste systeemapps
-
-Controleer dat deze aanwezig zijn:
-
-- [ ] com.samsung.android.app.contacts  
-- [ ] com.iqm.enterprise.smartapp  
-- [ ] IQ SmartApp Enterprise  
-
----
-
 **Voltooiing:** Zodra deze checklist volledig is gecontroleerd, kan de gebruiker verder met de **handleiding voor configuratie**.  
 
 ---
@@ -101,8 +91,8 @@ Gebruik **altijd exact deze instellingen**:
 
 ### WebDAV
 - **Server:** `http://10.10.14.176/`
-- **Gebruikersnaam:** `Schutse`
-- **Wachtwoord:** `ZgKdx-j7Sd5-635DP-AEiyx-iD8cn`
+- **Gebruikersnaam:** `Vraag aan vab`
+- **Wachtwoord:** `Vraag aan vab`
 
 ### Linphone
 - **Server:** `10.10.20.12`
