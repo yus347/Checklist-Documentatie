@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<title>Samsung XCover 7 – Checklist</title>
+<style>
+  body { font-family: Arial, sans-serif; padding: 20px; max-width: 900px; margin: auto; }
+  h1, h2 { color: #1a73e8; }
+  .checklist-item { margin: 6px 0; }
+  input[type=checkbox] { margin-right: 10px; }
+  span.hover-text { border-bottom: 1px dotted #000; cursor: help; }
+  button { margin: 10px 5px 20px 0; padding: 8px 15px; cursor: pointer; }
+</style>
+</head>
+<body>
+
+<h1>📱 Samsung XCover 7 – Checklist</h1>
+
+<h2>1. App Installatie – Controle</h2>
+<div class="checklist-item"><input type="checkbox"><label>CLB Messenger</label></div>
+<div class="checklist-item"><input type="checkbox"><label>DAVx5</label></div>
+<div class="checklist-item"><input type="checkbox"><label>Linphone CLB</label></div>
+<div class="checklist-item"><input type="checkbox"><label>SureMDM Agent</label></div>
+<div class="checklist-item"><input type="checkbox"><label>Kadex Notifier</label></div>
+<div class="checklist-item"><input type="checkbox"><label>Google Meet <span class="hover-text" title="Open de app, meldingen & machtigingen toestaan, batterij onbeperkt">?</span></label></div>
+<div class="checklist-item"><input type="checkbox"><label>Zijknoppen starten CLB</label></div>
+
+<h2>6. Netwerk & Functionaliteit</h2>
+<div class="checklist-item"><input type="checkbox"><label><span title="Verbind het toestel met WiFi">WiFi verbonden</span></label></div>
+<div class="checklist-item"><input type="checkbox"><label><span title="Controleer of 4G actief is">4G actief</span></label></div>
+<div class="checklist-item"><input type="checkbox"><label><span title="Test CLB via WiFi">CLB getest via WiFi</span></label></div>
+<div class="checklist-item"><input type="checkbox"><label><span title="Test CLB via 4G">CLB getest via 4G</span></label></div>
+<div class="checklist-item"><input type="checkbox"><label><span title="Doorloop CLB instellingen">CLB instellingen gedaan</span></label></div>
+<div class="checklist-item"><input type="checkbox"><label><span title="Kadex testmelding versturen">Kadex meldingen getest</span></label></div>
+<div class="checklist-item"><input type="checkbox"><label><span title="Testgesprek via Linphone">Linphone testgesprek gelukt</span></label></div>
+<div class="checklist-item"><input type="checkbox"><label><span title="DAVx5 synchronisatie controleren">DAVx5 synchronisatie getest</span></label></div>
+
+<h2>11. Video Call Test</h2>
+<div class="checklist-item"><input type="checkbox"><label>Google Meet test voltooid</label></div>
+
+<h2>12. Eindcontrole – Toestel Gereed</h2>
+<div class="checklist-item"><input type="checkbox"><label>CLB werkt correct</label></div>
+<div class="checklist-item"><input type="checkbox"><label>Kadex meldingen komen binnen</label></div>
+<div class="checklist-item"><input type="checkbox"><label>Linphone kan bellen</label></div>
+<div class="checklist-item"><input type="checkbox"><label>WebDAV synchroniseert</label></div>
+<div class="checklist-item"><input type="checkbox"><label>Google Meet getest</label></div>
+
+<button onclick="downloadPDF()">📄 Download PDF</button>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+<script>
+  function downloadPDF() {
+    const { jsPDF } = window.jspdf;
+    const doc = new jsPDF();
+    let y = 10;
+    document.querySelectorAll('.checklist-item').forEach(item => {
+      const cb = item.querySelector('input');
+      const label = item.querySelector('label').innerText;
+      const checked = cb.checked ? '✔️' : '⬜';
+      doc.text(`${checked} ${label}`, 10, y);
+      y += 10;
+    });
+    doc.save("Samsung_XCover7_Checklist.pdf");
+  }
+</script>
+
+</body>
+</html>
