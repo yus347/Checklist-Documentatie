@@ -14,8 +14,9 @@ Controleer of de volgende apps geïnstalleerd zijn:
 - [ ] DAVx5  
 - [ ] Linphone CLB  
 - [ ] SureMDM Agent  
-- [ ] Kadex Notifier
-- [ ] Zijknoppen starten CLB
+- [ ] Kadex Notifier  
+- [ ] Google Meet 
+- [ ] Zijknoppen starten CLB  
 
 ➡ **Geen enkele app mag ontbreken**
 
@@ -97,6 +98,10 @@ Controleer of de volgende apps geïnstalleerd zijn:
 
 ![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/9836067b3c8d9fa5fb7e3b00ecfc9b3a2556b92d/6.png)
 
+---
+
+
+
 ## 5. Gemini Uitschakelen
 
 1. Ga naar **Instellingen**.
@@ -111,14 +116,16 @@ Controleer of de volgende apps geïnstalleerd zijn:
 
 ## 6. Netwerk & Functionaliteit
 
-- [ ] WiFi verbonden  
-- [ ] 4G actief  
-- [ ] CLB getest via WiFi  
-- [ ] CLB getest via 4G
-- [ ] CLB Instellingen gedaan
-- [ ] Kadex meldingen getest  
-- [ ] Linphone testgesprek gelukt  
-- [ ] DAVx5 synchronisatie getest  
+---
+
+- [ ] <span title="Verbind het toestel met een stabiel WiFi-netwerk">WiFi verbonden</span>  
+- [ ] <span title="Controleer of mobiele data actief is (4G icoon zichtbaar)">4G actief</span>  
+- [ ] <span title="Test CLB Messenger terwijl WiFi is ingeschakeld">CLB getest via WiFi</span>  
+- [ ] <span title="Schakel WiFi uit en test CLB via mobiele data">CLB getest via 4G</span>  
+- [ ] <span title="Doorloop alle CLB instellingen zoals beschreven in stap 10">CLB instellingen gedaan</span>  
+- [ ] <span title="Laat een Kadex testmelding versturen en controleer ontvangst">Kadex meldingen getest</span>  
+- [ ] <span title="Voer een testgesprek uit via Linphone">Linphone testgesprek gelukt</span>  
+- [ ] <span title="Controleer of DAVx5 succesvol synchroniseert">DAVx5 synchronisatie getest</span>  
 
 ---
 
@@ -182,12 +189,31 @@ Controleer of de volgende apps geïnstalleerd zijn:
 
 ---
 
-## 11. Eindcontrole – Toestel Gereed
+## 11. Video Call Test – Google Meet
 
-- [ ] CLB werkt correct  
-- [ ] Kadex meldingen komen binnen  
-- [ ] Linphone kan bellen  
-- [ ] WebDAV synchroniseert  
+1. Open **Google Meet** op een ander apparaat (telefoon of laptop).
+2. Tik op **Nieuwe vergadering**.
+3. Kies **Een vergadering starten**.
+4. Kopieer de **vergaderlink** of **10-cijferige lettercode**.
+5. Open **Google Meet** op de **Samsung XCover 7**.
+6. Tik op **Code invoeren** of **Deelnemen**.
+7. Plak of typ de **10-cijferige code** of open de **link**.
+8. Tik op **Deelnemen**.
+
+  ![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/e159cd1defd373a8721f940525b9c832fb48de22/23%20(1).png)
+  ![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/e159cd1defd373a8721f940525b9c832fb48de22/22.jpg)
+  ![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/e159cd1defd373a8721f940525b9c832fb48de22/24.png)
+
+  ---
+
+## 12. Eindcontrole – Toestel Gereed
+
+- [ ] <span title="Verstuur en ontvang een testbericht">CLB werkt correct</span>  
+- [ ] <span title="Laat een testmelding versturen">Kadex meldingen komen binnen</span>  
+- [ ] <span title="Bel uitgaand en neem inkomend gesprek aan">Linphone kan bellen</span>  
+- [ ] <span title="Controleer of synchronisatie zonder fouten loopt">WebDAV synchroniseert</span>  
+- [ ] <span title="Voer een test videogesprek">Google Meet getest</span>  
   
+---
 
 ✅ **Toestel is nu volledig klaar voor gebruik binnen Amsta Zorg.**
