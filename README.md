@@ -6,6 +6,50 @@ Deze checklist wordt gebruikt bij het **inspoelen van Samsung XCover 7**.
 
 ---
 
+# 🔹 0. Voorbereiding Toestel (VERPLICHT)
+
+⚠️ Deze stappen moeten altijd uitgevoerd worden vóór stap 1.
+
+---
+
+## 0.1 Toestel Controleren & Klaarmaken
+
+- [ ] Controleer of je het juiste toestel hebt ontvangen  
+- [ ] Pak de doos volledig uit  
+- [ ] Controleer of alle onderdelen aanwezig zijn  
+- [ ] Plaats de batterij (indien los geleverd)  
+- [ ] Plaats de SIM-kaart correct  
+- [ ] Plaats eventueel de SD-kaart  
+- [ ] Zet het toestel aan  
+
+---
+
+## 0.2 Fabrieksinstellingen Doorlopen
+
+- [ ] Doorloop alle standaard Android installatie-stappen  
+- [ ] Verbind tijdelijk met WiFi (indien nodig)  
+- [ ] Sla Google-account over (indien niet vereist)  
+- [ ] Voltooi de basisinstallatie volledig  
+- [ ] Controleer dat het toestel op het beginscherm staat  
+
+---
+
+## 0.3 Device Enrollment via SureMDM
+
+Gebruik de MDM-omgeving van SureMDM.
+
+1. Ga naar het beginscherm  
+2. Tik **6 keer** op het scherm om device enrollment te starten  
+3. De camera opent automatisch voor QR-scanning  
+4. Scan de SureMDM QR-code van de juiste locatie  
+5. Wacht tot het toestel volledig is ingeschreven en automatisch wordt geconfigureerd  
+
+⚠️ **Belangrijk:**
+
+- Gebruik altijd de juiste locatie QR-code  
+- Onderbreek het proces niet  
+- Wacht tot het toestel volledig is “ingespoeld”
+  
 ## 1. App Installatie – Controle
 
 Controleer of de volgende apps geïnstalleerd zijn:
@@ -15,7 +59,6 @@ Controleer of de volgende apps geïnstalleerd zijn:
 - [ ] Linphone CLB  
 - [ ] SureMDM Agent  
 - [ ] Kadex Notifier  
-- [ ] Google Meet 
 - [ ] Zijknoppen starten CLB  
 
 ➡ **Geen enkele app mag ontbreken**
@@ -187,26 +230,9 @@ Controleer of de volgende apps geïnstalleerd zijn:
 ![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/1495772b93ef6ce464f6955ab0e046f4eb1992e0/1.png)
 ![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/1495772b93ef6ce464f6955ab0e046f4eb1992e0/4.png)
 
----
-
-## 11. Video Call Test – Google Meet
-
-1. Open **Google Meet** op een ander apparaat (telefoon of laptop).
-2. Tik op **Nieuwe vergadering**.
-3. Kies **Een vergadering starten**.
-4. Kopieer de **vergaderlink** of **10-cijferige lettercode**.
-5. Open **Google Meet** op de **Samsung XCover 7**.
-6. Tik op **Code invoeren** of **Deelnemen**.
-7. Plak of typ de **10-cijferige code** of open de **link**.
-8. Tik op **Deelnemen**.
-
-  ![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/e159cd1defd373a8721f940525b9c832fb48de22/23%20(1).png)
-  ![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/e159cd1defd373a8721f940525b9c832fb48de22/22.jpg)
-  ![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/e159cd1defd373a8721f940525b9c832fb48de22/24.png)
-
   ---
 
-## 12. Eindcontrole – Toestel Gereed
+## 11. Eindcontrole – Toestel Gereed
 
 - [ ] <span title="Verstuur en ontvang een testbericht">CLB werkt correct</span>  
 - [ ] <span title="Laat een testmelding versturen">Kadex meldingen komen binnen</span>  
