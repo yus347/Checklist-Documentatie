@@ -18,8 +18,7 @@ Deze checklist wordt gebruikt bij het **inspoelen van Samsung XCover 7**.
 - [ ] Pak de doos volledig uit  
 - [ ] Controleer of alle onderdelen aanwezig zijn  
 - [ ] Plaats de batterij (indien los geleverd)  
-- [ ] Plaats de SIM-kaart correct  
-- [ ] Plaats eventueel de SD-kaart  
+- [ ] Plaats de SIM-kaart correct    
 - [ ] Zet het toestel aan  
 
 ---
