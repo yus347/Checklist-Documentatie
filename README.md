@@ -1,4 +1,4 @@
-# 📱 Samsung XCover 7 – Checklist & Documentatie 
+# 📱 Samsung XCover 7 – Checklist 
 **Amsta Zorg**
 
 Deze checklist wordt gebruikt bij het **inspoelen van Samsung XCover 7**.
