@@ -16,7 +16,6 @@ Deze checklist wordt gebruikt bij het **inspoelen van Samsung XCover 7**.
 
 - [ ] Controleer of je het juiste toestel hebt ontvangen  
 - [ ] Pak de doos volledig uit  
-- [ ] Controleer of alle onderdelen aanwezig zijn  
 - [ ] Plaats de batterij (indien los geleverd)  
 - [ ] Plaats de SIM-kaart correct    
 - [ ] Zet het toestel aan  
@@ -26,8 +25,7 @@ Deze checklist wordt gebruikt bij het **inspoelen van Samsung XCover 7**.
 ## 0.2 Fabrieksinstellingen Doorlopen
 
 - [ ] Doorloop alle standaard Android installatie-stappen  
-- [ ] Verbind tijdelijk met WiFi (indien nodig)  
-- [ ] Sla Google-account over (indien niet vereist)  
+- [ ] Verbind tijdelijk met WiFi (indien nodig)    
 - [ ] Voltooi de basisinstallatie volledig  
 - [ ] Controleer dat het toestel op het beginscherm staat  
 
@@ -58,13 +56,16 @@ Controleer of de volgende apps geïnstalleerd zijn:
 - [ ] Linphone CLB  
 - [ ] SureMDM Agent  
 - [ ] Kadex Notifier  
-- [ ] Zijknoppen starten CLB  
+ 
 
 ➡ **Geen enkele app mag ontbreken**
 
 ---
 
 ## 2. App Instellingen – Controle (Voor elke app)
+
+Zorg eerst dat je uit Surelock bent. ( Of via de Suremdm platform of 5x tikken op beginscherm en uitloggen met code )
+
 
 ### 2.1 Meldingen
 
@@ -156,18 +157,6 @@ Controleer of de volgende apps geïnstalleerd zijn:
 
 ---
 
-## 6. Netwerk & Functionaliteit
-
----
-
-- [ ] <span title="Verbind het toestel met een stabiel WiFi-netwerk">WiFi verbonden</span>  
-- [ ] <span title="Controleer of mobiele data actief is (4G icoon zichtbaar)">4G actief</span>  
-- [ ] <span title="Test CLB Messenger terwijl WiFi is ingeschakeld">CLB getest via WiFi</span>  
-- [ ] <span title="Schakel WiFi uit en test CLB via mobiele data">CLB getest via 4G</span>  
-- [ ] <span title="Doorloop alle CLB instellingen zoals beschreven in stap 10">CLB instellingen gedaan</span>  
-- [ ] <span title="Laat een Kadex testmelding versturen en controleer ontvangst">Kadex meldingen getest</span>  
-- [ ] <span title="Voer een testgesprek uit via Linphone">Linphone testgesprek gelukt</span>  
-- [ ] <span title="Controleer of DAVx5 succesvol synchroniseert">DAVx5 synchronisatie getest</span>  
 
 ---
 
@@ -179,7 +168,7 @@ Controleer of de volgende apps geïnstalleerd zijn:
 
 ---
 
-## 7. Kadex Configureren
+## 6. Kadex Configureren
 
 1. Open **Kadex Notifier**.
 2. Vul het **serveradres** in: `10.99.0.3`
@@ -188,7 +177,7 @@ Controleer of de volgende apps geïnstalleerd zijn:
 
  ---
 
-## 8. WebDAV Configureren (DAVx5)
+## 7. WebDAV Configureren (DAVx5)
 
 1. Open **DAVx5**.
 2. Voeg een **nieuwe WebDAV-account** toe.
@@ -205,7 +194,7 @@ Controleer of de volgende apps geïnstalleerd zijn:
 
 ---
 
-## 9. 4G & Linphone Correct Instellen
+## 8. 4G & Linphone Correct Instellen
 
 1. Open **Linphone CLB**.
 2. Configureer Linphone met: - **Server:** `10.10.20.12`
@@ -217,7 +206,7 @@ Controleer of de volgende apps geïnstalleerd zijn:
 
 ---
 
-## 10. CLB App Afronden
+## 9. CLB App Afronden
 
 1. Open **CLB Messenger**.
 2. Voer bij de **naam van de gebruiker en code** niks in klik boven in rechts 3 keer.
@@ -230,6 +219,21 @@ Controleer of de volgende apps geïnstalleerd zijn:
 ![Image Alt](https://github.com/yus347/Checklist-Documentatie/blob/1495772b93ef6ce464f6955ab0e046f4eb1992e0/4.png)
 
   ---
+## 10. Netwerk & Functionaliteit
+
+---
+
+- [ ] <span title="Verbind het toestel met een stabiel WiFi-netwerk">WiFi verbonden</span>  
+- [ ] <span title="Controleer of mobiele data actief is (4G icoon zichtbaar)">4G actief</span>  
+- [ ] <span title="Test CLB Messenger terwijl WiFi is ingeschakeld">CLB getest via WiFi</span>  
+- [ ] <span title="Schakel WiFi uit en test CLB via mobiele data">CLB getest via 4G</span>  
+- [ ] <span title="Doorloop alle CLB instellingen zoals beschreven in stap 10">CLB instellingen gedaan</span>  
+- [ ] <span title="Laat een Kadex testmelding versturen en controleer ontvangst">Kadex meldingen getest</span>  
+- [ ] <span title="Voer een testgesprek uit via Linphone">Linphone testgesprek gelukt</span>  
+- [ ] <span title="Controleer of DAVx5 succesvol synchroniseert">DAVx5 synchronisatie getest</span>  
+
+
+
 
 ## 11. Eindcontrole – Toestel Gereed
 
