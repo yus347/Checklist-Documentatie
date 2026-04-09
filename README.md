@@ -85,7 +85,8 @@ Zorg eerst dat je uit Surelock bent. ( Of via de Suremdm platform of 5x tikken o
 
 **Pad:** `Instellingen → Apps → [Appnaam] → Machtigingen`
 
-- [ ] Camera → **Toegestaan**  
+- [ ] Camera → **Toegestaan**
+- [ ] Microfoon → **Toegestaan**
 - [ ] Locatie → **Toegestaan**  
 - [ ] Telefoon → **Toegestaan**  
 - [ ] Nabije apparaten → **Toegestaan**  
@@ -182,8 +183,8 @@ Zorg eerst dat je uit Surelock bent. ( Of via de Suremdm platform of 5x tikken o
 1. Open **DAVx5**.
 2. Voeg een **nieuwe WebDAV-account** toe.
 3. Vul in: - **Server:** `http://10.10.14.176/`
-- **Gebruikersnaam:** `Vraag aan vab`
-- **Wachtwoord:** `Vraag aan vab`
+- **Gebruikersnaam:** `Vraag aan Fab`
+- **Wachtwoord:** `Vraag aan Fab`
 
 3. Pas de **naam** aan indien nodig.
 4. Sla de instellingen op.
@@ -241,7 +242,7 @@ Zorg eerst dat je uit Surelock bent. ( Of via de Suremdm platform of 5x tikken o
 - [ ] <span title="Laat een testmelding versturen">Kadex meldingen komen binnen</span>  
 - [ ] <span title="Bel uitgaand en neem inkomend gesprek aan">Linphone kan bellen</span>  
 - [ ] <span title="Controleer of synchronisatie zonder fouten loopt">WebDAV synchroniseert</span>  
-- [ ] <span title="Voer een test videogesprek">Google Meet getest</span>  
+
   
 ---
 
